@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClumsyCoder420
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Python and Front End
+- 👀 I’m interested in Scripting and CyberSecurity
+- 🌱 I’m currently learning SCADA and Critical Infrastructure pentest.
+- 💞️ I’m looking to collaborate on Penetration Testing , Vulnerability assessment.
 - 📫 How to reach me , via my email e.bega9@gmail.com
 
 
